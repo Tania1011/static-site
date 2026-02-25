@@ -1,3 +1,3 @@
 # My New Website
 
-## Web programming with python = Django
+## Web programming with python - Django
