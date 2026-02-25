@@ -1,4 +1,5 @@
-  // 1. Find the button and the div
+<script>
+    // 1. Find the button and the div
      const button = document.getElementById("magic-button");
      const box = document.getElementById("message-box");
 
@@ -7,7 +8,7 @@
      // 3. When clicked, run this function:
      changeMessage();
   });
-
+</script>
   function changeMessage () {
       // Change the text inside the div
       box.textContent = " You clicked! I have been changed by JavaScript!";
