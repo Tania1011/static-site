@@ -1,4 +1,4 @@
-<script>
+
     // 1. Find the button and the div
      const button = document.getElementById("magic-button");
      const box = document.getElementById("message-box");
@@ -19,4 +19,4 @@
       //Add a CSS class (defined in style.css)
       box.classList.add("success-box");
   }  
-</script>
+
